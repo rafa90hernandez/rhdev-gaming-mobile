@@ -1,50 +1,43 @@
-# Welcome to your Expo app 👋
+# RHDev Gaming Mobile
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+Mobile portfolio app built with React Native and Expo, showcasing interactive web games, live demos and GitHub repositories.
 
-## Get started
+## Overview
 
-1. Install dependencies
+RHDev Gaming Mobile is a mobile portfolio application created to present a collection of browser-based interactive games in a clean and accessible mobile interface.
 
-   ```bash
-   npm install
-   ```
+The app provides direct access to live demos and source code repositories for each project.
 
-2. Start the app
+## Featured Projects
 
-   ```bash
-   npx expo start
-   ```
+- Interactive Casino Wheel
+- Digital Scratch Card
+- Mystery Box Rewards
+- Irish Bingo Game
 
-In the output, you'll find options to open the app in a
+## Technologies
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+- React Native
+- Expo
+- TypeScript
+- Expo Router
+- JavaScript
+- Mobile UI Design
+- Git & GitHub
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+## Features
 
-## Get a fresh project
+- Mobile-first portfolio interface
+- RHDev branding
+- Project screenshots
+- Live demo links
+- GitHub repository links
+- Responsive mobile layout
+- Dark theme with neon visual identity
 
-When you're ready, run:
+## Author
 
-```bash
-npm run reset-project
-```
+Rafael Hernandez  
+Fullstack Developer
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+GitHub: https://github.com/rafa90hernandez
